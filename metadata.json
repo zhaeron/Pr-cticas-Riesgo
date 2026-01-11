@@ -1,0 +1,8 @@
+{
+  "name": "Reporte de Intensidad Sísmica ",
+  "description": "An application for users to report seismic intensity (MMI scale), location, and observations including text and images, which are then formatted into a CSV structure.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
